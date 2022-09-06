@@ -1,0 +1,7 @@
+jupyter==1.0.0
+auto_sklearn==0.14.7
+matplotlib==3.5.1
+numpy==1.21.5
+pandas==1.4.3
+scikit_learn==1.1.2
+seaborn==0.11.2
